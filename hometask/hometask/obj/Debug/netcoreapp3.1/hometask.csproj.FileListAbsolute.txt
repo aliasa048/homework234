@@ -1,0 +1,14 @@
+C:\Users\FX516PM\Desktop\hwiyun1\hometask\hometask\obj\Debug\netcoreapp3.1\hometask.csproj.AssemblyReference.cache
+C:\Users\FX516PM\Desktop\hwiyun1\hometask\hometask\obj\Debug\netcoreapp3.1\hometask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516PM\Desktop\hwiyun1\hometask\hometask\obj\Debug\netcoreapp3.1\hometask.AssemblyInfoInputs.cache
+C:\Users\FX516PM\Desktop\hwiyun1\hometask\hometask\obj\Debug\netcoreapp3.1\hometask.AssemblyInfo.cs
+C:\Users\FX516PM\Desktop\hwiyun1\hometask\hometask\obj\Debug\netcoreapp3.1\hometask.csproj.CoreCompileInputs.cache
+C:\Users\FX516PM\Desktop\hwiyun1\hometask\hometask\bin\Debug\netcoreapp3.1\hometask.exe
+C:\Users\FX516PM\Desktop\hwiyun1\hometask\hometask\bin\Debug\netcoreapp3.1\hometask.deps.json
+C:\Users\FX516PM\Desktop\hwiyun1\hometask\hometask\bin\Debug\netcoreapp3.1\hometask.runtimeconfig.json
+C:\Users\FX516PM\Desktop\hwiyun1\hometask\hometask\bin\Debug\netcoreapp3.1\hometask.runtimeconfig.dev.json
+C:\Users\FX516PM\Desktop\hwiyun1\hometask\hometask\bin\Debug\netcoreapp3.1\hometask.dll
+C:\Users\FX516PM\Desktop\hwiyun1\hometask\hometask\bin\Debug\netcoreapp3.1\hometask.pdb
+C:\Users\FX516PM\Desktop\hwiyun1\hometask\hometask\obj\Debug\netcoreapp3.1\hometask.dll
+C:\Users\FX516PM\Desktop\hwiyun1\hometask\hometask\obj\Debug\netcoreapp3.1\hometask.pdb
+C:\Users\FX516PM\Desktop\hwiyun1\hometask\hometask\obj\Debug\netcoreapp3.1\hometask.genruntimeconfig.cache
